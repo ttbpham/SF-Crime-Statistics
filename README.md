@@ -42,7 +42,7 @@ kafka-console-consumer.sh --bootstrap-server localhost:9093 --topic "gov.departm
 ### Viewing messages by executing python script
 
 ```bash
-python consumer.py
+python consumer_server.py
 ```
 
 ### Submit Spark Streaming Job
